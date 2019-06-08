@@ -1,0 +1,9 @@
+text: "Are you able to see any wifi network?"
+yes:
+  text: "Is the network ID visible?"
+  yes:
+    text: "Contact your network provider"
+  no:
+    text: "Reboot the wireless router"
+no:
+  text: "Wireless network might be off. Reboot computer"
